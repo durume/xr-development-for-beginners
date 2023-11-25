@@ -1,64 +1,64 @@
 [
   {
-    "title": "XR Development for Beginners: Quizzes",
-    "complete": "Congratulations, you completed the quiz!",
-    "error": "Sorry, try again",
+    "title": "초보자를 위한 XR 개발: 퀴즈",
+    "complete": "축하합니다, 퀴즈를 모두 마치셨습니다!",
+    "error": "죄송합니다, 다시 해보시겠어요?",
     "quizzes": [
       {
         "id": 0,
-        "title": "Lesson 1: What is XR?",
+        "title": "학습 1: XR은 무엇인가?",
         "quiz": [
           {
-            "questionText": "What kind of devices can run Augmented Reality experiences?",
+            "questionText": "증강현실 경험을 실행시킬 수 있는 장치는 어떤 종류가 있을까요?",
             "answerOptions": [
               {
-                "answerText": "Only smartphones and tablets.",
+                "answerText": "스마트폰과 태블릿만 가능.",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Smartphones, tablets, smart glasses, computers, headsets and more.",
+                "answerText": "스마트폰, 태블릿, 스마트 글래스, 컴퓨터, 헤드셋 등.",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Only headsets.",
+                "answerText": "헤드셋만 가능.",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which of the following is a requirement for a GPS based application?",
+            "questionText": "다음 중 GPS 기반의 앱을 위한 필요사항은 무엇인가요?",
             "answerOptions": [
               {
-                "answerText": "Access to the device's global positioning system tools.",
+                "answerText": "장치의 지구상 위치추적 시스템 도구에 접속.",
                 "isCorrect": "true"
               },
               {
-                "answerText": "A map application must be installed.",
+                "answerText": "지도 앱의 필수적 설치.",
                 "isCorrect": "false"
               },
               {
-                "answerText": "A marker is required to display virtual objects.",
+                "answerText": "가상의 물체를 표시할 마커(marker).",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which of the following is a use case for XR?",
+            "questionText": "다음 중 XR의 사용 사례는 무엇인가요??",
             "answerOptions": [
               {
-                "answerText": "Training and Development",
+                "answerText": "교육 및 개발",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Productivity and Collaboration",
+                "answerText": "생산성 및 협업",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Design and Prototyping",
+                "answerText": "디자인 및 프로토타이핑",
                 "isCorrect": "false"
               },
               {
-                "answerText": "All the above",
+                "answerText": "위의 모든 사항",
                 "isCorrect": "true"
               }
             ]
@@ -67,51 +67,51 @@
       },
       {
         "id": 1,
-        "title": "Lesson 2: Devices",
+        "title": "학습 2: 장치",
         "quiz": [
           {
-            "questionText": "XR devices are only available as a headset.",
+            "questionText": "XR 장치는 헤드셋으로만 사용할 수 있습니다..",
             "answerOptions": [
               {
-                "answerText": "True",
+                "answerText": "참",
                 "isCorrect": "false"
               },
               {
-                "answerText": "False",
+                "answerText": "거짓",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "What is Haptic Technology?",
+            "questionText": "햅틱 기술이란?",
             "answerOptions": [
               {
-                "answerText": "Any technology that can create an experience of touch by applying forces, vibrations or motions to the user.",
+                "answerText": "사용자에게 힘, 진동 또는 동작을 가하여 터치 경험을 만들 수 있는 모든 기술.",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Any technology that allows the user to see 3D models.",
+                "answerText": "사용자가 3D 모델을 볼 수 있는 모든 기술.",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Any technology that allows the user to be immersed in an application.",
+                "answerText": "사용자가 애플리케이션에 몰입할 수 있도록 하는 모든 기술.",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which is a benefit of a tethered device?",
+            "questionText": "테더링 디바이스의 이점은?",
             "answerOptions": [
               {
-                "answerText": "Tethered devices provide better computing power regardless of the device its connected to.",
+                "answerText": "테더링된 장치는 연결된 장치에 관계없이 더 나은 컴퓨팅 성능을 제공합니다.",
                 "isCorrect": "false"
               },
               {
-                "answerText": "The cable connection helps reduce latency between what you do physically and movement in the virtual world.",
+                "answerText": "케이블 연결은 물리적으로 수행하는 작업과 가상 세계에서의 움직임 사이의 지연 시간을 줄이는 데 도움이 됩니다.",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Tethered devices enable you to wirelessly experience apps.",
+                "answerText": "테더링 장치를 사용하면 무선으로 앱을 경험할 수 있습니다.",
                 "isCorrect": "false"
               }
             ]
